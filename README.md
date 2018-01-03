@@ -1,9 +1,6 @@
 # OpenCV-compile
 Compiling OpenCV 3.X with CUDA and FFMpeg on Ubuntu 16.04
-December 26, 2017
 
-
-CE Tech Team
 
 Goal: Compile OpenCV 3.X using CUDA and FFMpeg to accelerate Deep Learning applications consisting image/video processing
 
